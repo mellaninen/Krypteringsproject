@@ -1,0 +1,14 @@
+﻿  studentFunctions.c
+c:\users\melker\source\repos\krypteringprojekt\krypteringprojekt\studentfunctions.c(5): warning C4101: 'line': unreferenced local variable
+c:\users\melker\source\repos\krypteringprojekt\krypteringprojekt\studentfunctions.c(64): warning C4047: '!=': '::size_t' differs in levels of indirection from 'void *'
+c:\users\melker\source\repos\krypteringprojekt\krypteringprojekt\studentfunctions.c(146): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *const '
+c:\users\melker\source\repos\krypteringprojekt\krypteringprojekt\studentfunctions.c(153): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char'
+c:\users\melker\source\repos\krypteringprojekt\krypteringprojekt\studentfunctions.c(153): warning C4024: 'fopen': different types for formal and actual parameter 1
+  main.c
+c:\users\melker\source\repos\krypteringprojekt\krypteringprojekt\studentfunctions.c(5): warning C4101: 'line': unreferenced local variable
+c:\users\melker\source\repos\krypteringprojekt\krypteringprojekt\studentfunctions.c(64): warning C4047: '!=': '::size_t' differs in levels of indirection from 'void *'
+c:\users\melker\source\repos\krypteringprojekt\krypteringprojekt\studentfunctions.c(146): warning C4133: 'function': incompatible types - from 'FILE *' to 'const char *const '
+c:\users\melker\source\repos\krypteringprojekt\krypteringprojekt\studentfunctions.c(153): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char'
+c:\users\melker\source\repos\krypteringprojekt\krypteringprojekt\studentfunctions.c(153): warning C4024: 'fopen': different types for formal and actual parameter 1
+  Generating Code...
+  KrypteringProjekt.vcxproj -> C:\Users\Melker\source\repos\KrypteringProjekt\Debug\KrypteringProjekt.exe
